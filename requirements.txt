@@ -1,0 +1,4 @@
+colorama
+mysql.connector
+pypresence
+termcolor
