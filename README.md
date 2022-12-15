@@ -1,3 +1,29 @@
+# WHY ARE YOU EVEN LOOKING ON IT
+PLEASE DO NOT USE THIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MYSQL-TOOL
 MYSQL MANAGER WRITTEN IN PYTHON
 
